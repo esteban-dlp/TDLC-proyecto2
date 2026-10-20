@@ -1,8 +1,15 @@
 # Proyecto 2
 
+Esteban de la Peña 24171
+Martin Villatoro 24033
+
 Simplificacion de gramaticas y conversion a la forma normal de Chomsky.
 Esta es la primera parte del proyecto. La segunda parte agrega el algoritmo
 CYK y su documentacion en `INSTRUCCIONES.md` y `REPORTE.md`.
+
+## Video Explicativo
+
+link: https://youtu.be/sA-NiV9BMqU
 
 ## Requisitos
 
